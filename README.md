@@ -11,7 +11,7 @@
 
 ---
 
-## 🎯 Track 04 Problem Statement & Alignment
+## Track 04 Problem Statement & Alignment
 
 | Requirement | How FinReconcile AI Solves It |
 | :--- | :--- |
@@ -23,13 +23,13 @@
 
 ---
 
-## ⚡ Key Highlights & Metrics
+## Key Highlights & Metrics
 
 ```
 ┌────────────────────────────────────────────────────────────────────────────────────────┐
 │                               BENCHMARK SCORECARD                                      │
 ├────────────────────────────────┬──────────────────────────────┬────────────────────────┤
-│ 🏆 Reconciled Match Rate       │ 🛡️ Ground-Truth Precision   │ 🔍 Audited Exceptions  │
+│  Reconciled Match Rate         │ Ground-Truth Precision       │   Audited Exceptions   │
 │ 86.89% (53 of 61 Triplets)     │ 100.0% (0 False Positives)   │ 19 Items / 8 Events    │
 │ +22.96% lift over exact match  │ 100.0% Recall (53/53 found)  │ 100% Root-Cause Cited  │
 └────────────────────────────────┴──────────────────────────────┴────────────────────────┘
@@ -46,7 +46,7 @@
 
 ---
 
-## 🏗️ 3-Tier Architecture Pipeline
+## 3-Tier Architecture Pipeline
 
 ```
                                 [ MULTI-SOURCE INGESTION ]
@@ -91,7 +91,7 @@
 
 ---
 
-## 📊 Phased Benchmark Progression
+## Phased Benchmark Progression
 
 | Stage | Algorithm / Layer | Match Rate | Precision | Recall | False Positives | Unresolved Items |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
@@ -103,7 +103,7 @@
 
 ---
 
-## 🔍 The Honest Exception List (8 Events $\to$ 19 Records)
+## The Honest Exception List (8 Events $\to$ 19 Records)
 
 When 8 business events fail 3-way reconciliation, they leave unlinked records across the 3 independent systems:
 
@@ -126,7 +126,7 @@ Each of the 19 exceptions is classified into our accounting taxonomy with plain-
 
 ---
 
-## 💻 Tech Stack & System Design
+## Tech Stack & System Design
 
 - **Backend**: Python 3.11, FastAPI, Uvicorn, Pydantic, Levenshtein, RapidFuzz.
 - **AI Layer**: Google Gemini 3.6 Flash / `gemini-flash-latest` with sliding-window rate limiting, structured schema validation, and high-availability deterministic fallback.
@@ -136,7 +136,7 @@ Each of the 19 exceptions is classified into our accounting taxonomy with plain-
 
 ---
 
-## 🚀 Instant Quickstart 
+## Instant Quickstart 
 
 ### 1. Prerequisites
 - Python 3.10+
