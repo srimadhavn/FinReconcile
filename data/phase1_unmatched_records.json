@@ -1,0 +1,457 @@
+{
+  "ledger": [
+    {
+      "txn_id": "TXN-LDG-1038",
+      "date": "2026-03-13",
+      "amount": 12211.94,
+      "counterparty": "BlueHorizon Logistics",
+      "reference": "ORD-BLUEHOR-1038",
+      "currency": "INR"
+    },
+    {
+      "txn_id": "TXN-LDG-1058",
+      "date": "2026-03-09",
+      "amount": 70138.67,
+      "counterparty": "Apex Cloud Services",
+      "reference": "ORD-APEX-1058",
+      "currency": "INR"
+    },
+    {
+      "txn_id": "TXN-LDG-1049",
+      "date": "2026-03-06",
+      "amount": 10746.87,
+      "counterparty": "Vertex Digital Media",
+      "reference": "ORD-VERTEX-1049",
+      "currency": "INR"
+    },
+    {
+      "txn_id": "TXN-LDG-1039",
+      "date": "2026-03-01",
+      "amount": 39953.73,
+      "counterparty": "Vertex Digital Media",
+      "reference": "ORD-VERTEX-1039",
+      "currency": "INR"
+    },
+    {
+      "txn_id": "TXN-LDG-1041",
+      "date": "2026-03-01",
+      "amount": 34573.94,
+      "counterparty": "Quantum Data Labs",
+      "reference": "ORD-QUANTUM-1041",
+      "currency": "INR"
+    },
+    {
+      "txn_id": "TXN-LDG-1040",
+      "date": "2026-03-11",
+      "amount": 20242.72,
+      "counterparty": "Nexus Retail Pvt Ltd",
+      "reference": "ORD-NEXUS-1040",
+      "currency": "INR"
+    },
+    {
+      "txn_id": "TXN-LDG-1059",
+      "date": "2026-03-18",
+      "amount": 37938.71,
+      "counterparty": "Apex Cloud Services",
+      "reference": "ORD-APEX-1059",
+      "currency": "INR"
+    },
+    {
+      "txn_id": "TXN-LDG-1050",
+      "date": "2026-03-18",
+      "amount": 26923.75,
+      "counterparty": "Apex Cloud Services",
+      "reference": "ORD-APEX-1050",
+      "currency": "INR"
+    },
+    {
+      "txn_id": "TXN-LDG-1046",
+      "date": "2026-03-02",
+      "amount": 23065.37,
+      "counterparty": "Apex Cloud Services",
+      "reference": "ORD-APEX-1046",
+      "currency": "INR"
+    },
+    {
+      "txn_id": "TXN-LDG-1060",
+      "date": "2026-03-19",
+      "amount": 58360.26,
+      "counterparty": "Zenith Enterprise ERP",
+      "reference": "ORD-ZENITH-1060",
+      "currency": "INR"
+    },
+    {
+      "txn_id": "TXN-LDG-1048",
+      "date": "2026-03-05",
+      "amount": 6236.92,
+      "counterparty": "Vertex Digital Media",
+      "reference": "ORD-VERTEX-1048",
+      "currency": "INR"
+    },
+    {
+      "txn_id": "TXN-LDG-1055-DUP",
+      "date": "2026-03-08",
+      "amount": 8071.91,
+      "counterparty": "Zenith Enterprise ERP",
+      "reference": "ORD-ZENITH-1055",
+      "currency": "INR"
+    },
+    {
+      "txn_id": "TXN-LDG-1045",
+      "date": "2026-03-04",
+      "amount": 74682.4,
+      "counterparty": "Acme Global Tech",
+      "reference": "ORD-ACME-1045",
+      "currency": "INR"
+    },
+    {
+      "txn_id": "TXN-LDG-1042",
+      "date": "2026-03-04",
+      "amount": 23435.63,
+      "counterparty": "Vertex Digital Media",
+      "reference": "ORD-VERTEX-1042",
+      "currency": "INR"
+    },
+    {
+      "txn_id": "TXN-LDG-1044",
+      "date": "2026-03-01",
+      "amount": 49920.84,
+      "counterparty": "Vertex Digital Media",
+      "reference": "ORD-VERTEX-1044",
+      "currency": "INR"
+    },
+    {
+      "txn_id": "TXN-LDG-1047",
+      "date": "2026-03-03",
+      "amount": 59893.07,
+      "counterparty": "Stripe Billing Solutions",
+      "reference": "ORD-STRIPE-1047",
+      "currency": "INR"
+    },
+    {
+      "txn_id": "TXN-LDG-1057",
+      "date": "2026-03-11",
+      "amount": 34251.44,
+      "counterparty": "Acme Global Tech",
+      "reference": "ORD-ACME-1057",
+      "currency": "INR"
+    },
+    {
+      "txn_id": "TXN-LDG-1054",
+      "date": "2026-03-19",
+      "amount": 15632.35,
+      "counterparty": "Acme Global Tech",
+      "reference": "ORD-ACME-1054",
+      "currency": "INR"
+    },
+    {
+      "txn_id": "TXN-LDG-1043",
+      "date": "2026-03-05",
+      "amount": 24824.8,
+      "counterparty": "Apex Cloud Services",
+      "reference": "ORD-APEX-1043",
+      "currency": "INR"
+    },
+    {
+      "txn_id": "TXN-LDG-1056",
+      "date": "2026-03-08",
+      "amount": 8674.0,
+      "counterparty": "Acme Global Tech",
+      "reference": "ORD-ACME-1056",
+      "currency": "INR"
+    },
+    {
+      "txn_id": "TXN-LDG-1052",
+      "date": "2026-03-17",
+      "amount": 13481.21,
+      "counterparty": "Quantum Data Labs",
+      "reference": "ORD-QUANTUM-1052",
+      "currency": "INR"
+    },
+    {
+      "txn_id": "TXN-LDG-1051",
+      "date": "2026-03-13",
+      "amount": 34839.93,
+      "counterparty": "Nexus Retail Pvt Ltd",
+      "reference": "ORD-NEXUS-1051",
+      "currency": "INR"
+    }
+  ],
+  "bank": [
+    {
+      "bank_txn_id": "BNK-1059",
+      "date": "2026-03-18",
+      "amount": 15934.26,
+      "narration": "DISPUTED TRF/ORD-APEX-1059/CHARGEBACK-HOLD",
+      "utr_reference": "UTR2026001059X"
+    },
+    {
+      "bank_txn_id": "BNK-1060",
+      "date": "2026-03-19",
+      "amount": 24511.31,
+      "narration": "DISPUTED TRF/ORD-ZENITH-1060/CHARGEBACK-HOLD",
+      "utr_reference": "UTR2026001060X"
+    },
+    {
+      "bank_txn_id": "BNK-1042",
+      "date": "2026-03-06",
+      "amount": 23435.63,
+      "narration": "SETTLEMENT/ORD-VERTEX-1042/Vertex Digital Media/UTR2026001042T",
+      "utr_reference": "UTR2026001042T"
+    },
+    {
+      "bank_txn_id": "BNK-1051",
+      "date": "2026-03-13",
+      "amount": 34839.93,
+      "narration": "IMPS/P2A/1051/NexusRet",
+      "utr_reference": "UTR2026001051Z"
+    },
+    {
+      "bank_txn_id": "BNK-1040",
+      "date": "2026-03-12",
+      "amount": 20242.72,
+      "narration": "SETTLEMENT/ORD-NEXUS-1040/Nexus Retail Pvt Ltd/UTR2026001040T",
+      "utr_reference": "UTR2026001040T"
+    },
+    {
+      "bank_txn_id": "BNK-1045",
+      "date": "2026-03-04",
+      "amount": 73188.75,
+      "narration": "RAZORPAY/NET-SETTLE/ORD-ACME-1045/UTR2026001045F",
+      "utr_reference": "UTR2026001045F"
+    },
+    {
+      "bank_txn_id": "BNK-1041",
+      "date": "2026-03-03",
+      "amount": 34573.94,
+      "narration": "SETTLEMENT/ORD-QUANTUM-1041/Quantum Data Labs/UTR2026001041T",
+      "utr_reference": "UTR2026001041T"
+    },
+    {
+      "bank_txn_id": "BNK-1049",
+      "date": "2026-03-06",
+      "amount": 10746.87,
+      "narration": "NEFT CR-1049-VERTEX-CORP",
+      "utr_reference": "UTR2026001049Z"
+    },
+    {
+      "bank_txn_id": "BNK-1057",
+      "date": "2026-03-11",
+      "amount": 14385.6,
+      "narration": "DISPUTED TRF/ORD-ACME-1057/CHARGEBACK-HOLD",
+      "utr_reference": "UTR2026001057X"
+    },
+    {
+      "bank_txn_id": "BNK-1039",
+      "date": "2026-03-02",
+      "amount": 39953.73,
+      "narration": "SETTLEMENT/ORD-VERTEX-1039/Vertex Digital Media/UTR2026001039T",
+      "utr_reference": "UTR2026001039T"
+    },
+    {
+      "bank_txn_id": "BNK-1058",
+      "date": "2026-03-09",
+      "amount": 29458.24,
+      "narration": "DISPUTED TRF/ORD-APEX-1058/CHARGEBACK-HOLD",
+      "utr_reference": "UTR2026001058X"
+    },
+    {
+      "bank_txn_id": "BNK-1044",
+      "date": "2026-03-01",
+      "amount": 48922.42,
+      "narration": "RAZORPAY/NET-SETTLE/ORD-VERTEX-1044/UTR2026001044F",
+      "utr_reference": "UTR2026001044F"
+    },
+    {
+      "bank_txn_id": "BNK-1043",
+      "date": "2026-03-07",
+      "amount": 24824.8,
+      "narration": "SETTLEMENT/ORD-APEX-1043/Apex Cloud Services/UTR2026001043T",
+      "utr_reference": "UTR2026001043T"
+    },
+    {
+      "bank_txn_id": "BNK-1046",
+      "date": "2026-03-02",
+      "amount": 22521.03,
+      "narration": "RAZORPAY/NET-SETTLE/ORD-APEX-1046/UTR2026001046F",
+      "utr_reference": "UTR2026001046F"
+    },
+    {
+      "bank_txn_id": "BNK-1047",
+      "date": "2026-03-03",
+      "amount": 58994.67,
+      "narration": "RAZORPAY/NET-SETTLE/ORD-STRIPE-1047/UTR2026001047F",
+      "utr_reference": "UTR2026001047F"
+    },
+    {
+      "bank_txn_id": "BNK-1050",
+      "date": "2026-03-18",
+      "amount": 26923.75,
+      "narration": "POS DEBIT TRF 1050 APEX",
+      "utr_reference": "UTR2026001050Z"
+    },
+    {
+      "bank_txn_id": "BNK-1053",
+      "date": "2026-03-08",
+      "amount": 5344.54,
+      "narration": "DIRECT WIRE/UNIDENTIFIED CREDIT/Apex Cloud Services",
+      "utr_reference": "UTR2026001053M"
+    },
+    {
+      "bank_txn_id": "BNK-1048",
+      "date": "2026-03-05",
+      "amount": 6236.92,
+      "narration": "NEFT CR-1048-VERTEX-CORP",
+      "utr_reference": "UTR2026001048Z"
+    },
+    {
+      "bank_txn_id": "BNK-1038",
+      "date": "2026-03-15",
+      "amount": 12211.94,
+      "narration": "SETTLEMENT/ORD-BLUEHOR-1038/BlueHorizon Logistics/UTR2026001038T",
+      "utr_reference": "UTR2026001038T"
+    }
+  ],
+  "gateway": [
+    {
+      "payment_id": "pay_00001049",
+      "settled_amount": 10746.87,
+      "fee": 0.0,
+      "settlement_date": "2026-03-06",
+      "order_ref": "VERTEX-1049"
+    },
+    {
+      "payment_id": "pay_00001050",
+      "settled_amount": 26923.75,
+      "fee": 0.0,
+      "settlement_date": "2026-03-18",
+      "order_ref": "APEX-1050"
+    },
+    {
+      "payment_id": "pay_00001046",
+      "settled_amount": 22521.03,
+      "fee": 544.34,
+      "settlement_date": "2026-03-02",
+      "order_ref": "ORD-APEX-1046"
+    },
+    {
+      "payment_id": "pay_00001052",
+      "settled_amount": 13481.21,
+      "fee": 0.0,
+      "settlement_date": "2026-03-17",
+      "order_ref": "ORD-QUANTUM-1052"
+    },
+    {
+      "payment_id": "pay_00001041",
+      "settled_amount": 34573.94,
+      "fee": 0.0,
+      "settlement_date": "2026-03-04",
+      "order_ref": "ORD-QUANTUM-1041"
+    },
+    {
+      "payment_id": "pay_00001058",
+      "settled_amount": 70138.67,
+      "fee": 0.0,
+      "settlement_date": "2026-03-09",
+      "order_ref": "ORD-APEX-1058"
+    },
+    {
+      "payment_id": "pay_00001051",
+      "settled_amount": 34839.93,
+      "fee": 0.0,
+      "settlement_date": "2026-03-13",
+      "order_ref": "NEXUS-1051"
+    },
+    {
+      "payment_id": "pay_00001044",
+      "settled_amount": 48922.42,
+      "fee": 998.42,
+      "settlement_date": "2026-03-01",
+      "order_ref": "ORD-VERTEX-1044"
+    },
+    {
+      "payment_id": "pay_00001047",
+      "settled_amount": 58994.67,
+      "fee": 898.4,
+      "settlement_date": "2026-03-03",
+      "order_ref": "ORD-STRIPE-1047"
+    },
+    {
+      "payment_id": "pay_00001048",
+      "settled_amount": 6236.92,
+      "fee": 0.0,
+      "settlement_date": "2026-03-05",
+      "order_ref": "VERTEX-1048"
+    },
+    {
+      "payment_id": "pay_00001054",
+      "settled_amount": 15632.35,
+      "fee": 0.0,
+      "settlement_date": "2026-03-19",
+      "order_ref": "ORD-ACME-1054"
+    },
+    {
+      "payment_id": "pay_00001043",
+      "settled_amount": 24824.8,
+      "fee": 0.0,
+      "settlement_date": "2026-03-06",
+      "order_ref": "ORD-APEX-1043"
+    },
+    {
+      "payment_id": "pay_00001039",
+      "settled_amount": 39953.73,
+      "fee": 0.0,
+      "settlement_date": "2026-03-04",
+      "order_ref": "ORD-VERTEX-1039"
+    },
+    {
+      "payment_id": "pay_00001057",
+      "settled_amount": 34251.44,
+      "fee": 0.0,
+      "settlement_date": "2026-03-11",
+      "order_ref": "ORD-ACME-1057"
+    },
+    {
+      "payment_id": "pay_00001038",
+      "settled_amount": 12211.94,
+      "fee": 0.0,
+      "settlement_date": "2026-03-16",
+      "order_ref": "ORD-BLUEHOR-1038"
+    },
+    {
+      "payment_id": "pay_00001045",
+      "settled_amount": 73188.75,
+      "fee": 1493.65,
+      "settlement_date": "2026-03-04",
+      "order_ref": "ORD-ACME-1045"
+    },
+    {
+      "payment_id": "pay_00001042",
+      "settled_amount": 23435.63,
+      "fee": 0.0,
+      "settlement_date": "2026-03-07",
+      "order_ref": "ORD-VERTEX-1042"
+    },
+    {
+      "payment_id": "pay_00001040",
+      "settled_amount": 20242.72,
+      "fee": 0.0,
+      "settlement_date": "2026-03-13",
+      "order_ref": "ORD-NEXUS-1040"
+    },
+    {
+      "payment_id": "pay_00001059",
+      "settled_amount": 37938.71,
+      "fee": 0.0,
+      "settlement_date": "2026-03-18",
+      "order_ref": "ORD-APEX-1059"
+    },
+    {
+      "payment_id": "pay_00001060",
+      "settled_amount": 58360.26,
+      "fee": 0.0,
+      "settlement_date": "2026-03-19",
+      "order_ref": "ORD-ZENITH-1060"
+    }
+  ]
+}

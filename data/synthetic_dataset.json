@@ -1,0 +1,1945 @@
+{
+  "metadata": {
+    "seed": 42,
+    "generated_at": "2026-08-23T23:29:53.938255",
+    "ledger_count": 61,
+    "bank_count": 58,
+    "gateway_count": 59,
+    "total_records": 178
+  },
+  "ledger": [
+    {
+      "txn_id": "TXN-LDG-1038",
+      "date": "2026-03-13",
+      "amount": 12211.94,
+      "counterparty": "BlueHorizon Logistics",
+      "reference": "ORD-BLUEHOR-1038",
+      "currency": "INR"
+    },
+    {
+      "txn_id": "TXN-LDG-1005",
+      "date": "2026-03-08",
+      "amount": 38148.97,
+      "counterparty": "Apex Cloud Services",
+      "reference": "ORD-APEX-1005",
+      "currency": "INR"
+    },
+    {
+      "txn_id": "TXN-LDG-1058",
+      "date": "2026-03-09",
+      "amount": 70138.67,
+      "counterparty": "Apex Cloud Services",
+      "reference": "ORD-APEX-1058",
+      "currency": "INR"
+    },
+    {
+      "txn_id": "TXN-LDG-1017",
+      "date": "2026-03-02",
+      "amount": 49764.12,
+      "counterparty": "Stripe Billing Solutions",
+      "reference": "ORD-STRIPE-1017",
+      "currency": "INR"
+    },
+    {
+      "txn_id": "TXN-LDG-1049",
+      "date": "2026-03-06",
+      "amount": 10746.87,
+      "counterparty": "Vertex Digital Media",
+      "reference": "ORD-VERTEX-1049",
+      "currency": "INR"
+    },
+    {
+      "txn_id": "TXN-LDG-1010",
+      "date": "2026-03-09",
+      "amount": 12083.22,
+      "counterparty": "FinVantage Capital",
+      "reference": "ORD-FINVAN-1010",
+      "currency": "INR"
+    },
+    {
+      "txn_id": "TXN-LDG-1036",
+      "date": "2026-03-04",
+      "amount": 11886.68,
+      "counterparty": "Acme Global Tech",
+      "reference": "ORD-ACME-1036",
+      "currency": "INR"
+    },
+    {
+      "txn_id": "TXN-LDG-1011",
+      "date": "2026-03-04",
+      "amount": 7409.57,
+      "counterparty": "FinVantage Capital",
+      "reference": "ORD-FINVAN-1011",
+      "currency": "INR"
+    },
+    {
+      "txn_id": "TXN-LDG-1012",
+      "date": "2026-03-12",
+      "amount": 63638.33,
+      "counterparty": "Stripe Billing Solutions",
+      "reference": "ORD-STRIPE-1012",
+      "currency": "INR"
+    },
+    {
+      "txn_id": "TXN-LDG-1019",
+      "date": "2026-03-13",
+      "amount": 21209.03,
+      "counterparty": "Stripe Billing Solutions",
+      "reference": "ORD-STRIPE-1019",
+      "currency": "INR"
+    },
+    {
+      "txn_id": "TXN-LDG-1020",
+      "date": "2026-03-06",
+      "amount": 28078.48,
+      "counterparty": "FinVantage Capital",
+      "reference": "ORD-FINVAN-1020",
+      "currency": "INR"
+    },
+    {
+      "txn_id": "TXN-LDG-1039",
+      "date": "2026-03-01",
+      "amount": 39953.73,
+      "counterparty": "Vertex Digital Media",
+      "reference": "ORD-VERTEX-1039",
+      "currency": "INR"
+    },
+    {
+      "txn_id": "TXN-LDG-1024",
+      "date": "2026-03-09",
+      "amount": 74219.49,
+      "counterparty": "BlueHorizon Logistics",
+      "reference": "ORD-BLUEHOR-1024",
+      "currency": "INR"
+    },
+    {
+      "txn_id": "TXN-LDG-1041",
+      "date": "2026-03-01",
+      "amount": 34573.94,
+      "counterparty": "Quantum Data Labs",
+      "reference": "ORD-QUANTUM-1041",
+      "currency": "INR"
+    },
+    {
+      "txn_id": "TXN-LDG-1040",
+      "date": "2026-03-11",
+      "amount": 20242.72,
+      "counterparty": "Nexus Retail Pvt Ltd",
+      "reference": "ORD-NEXUS-1040",
+      "currency": "INR"
+    },
+    {
+      "txn_id": "TXN-LDG-1014",
+      "date": "2026-03-18",
+      "amount": 9799.55,
+      "counterparty": "Quantum Data Labs",
+      "reference": "ORD-QUANTUM-1014",
+      "currency": "INR"
+    },
+    {
+      "txn_id": "TXN-LDG-1059",
+      "date": "2026-03-18",
+      "amount": 37938.71,
+      "counterparty": "Apex Cloud Services",
+      "reference": "ORD-APEX-1059",
+      "currency": "INR"
+    },
+    {
+      "txn_id": "TXN-LDG-1032",
+      "date": "2026-03-18",
+      "amount": 20074.25,
+      "counterparty": "Vertex Digital Media",
+      "reference": "ORD-VERTEX-1032",
+      "currency": "INR"
+    },
+    {
+      "txn_id": "TXN-LDG-1050",
+      "date": "2026-03-18",
+      "amount": 26923.75,
+      "counterparty": "Apex Cloud Services",
+      "reference": "ORD-APEX-1050",
+      "currency": "INR"
+    },
+    {
+      "txn_id": "TXN-LDG-1001",
+      "date": "2026-03-01",
+      "amount": 55745.51,
+      "counterparty": "Stripe Billing Solutions",
+      "reference": "ORD-STRIPE-1001",
+      "currency": "INR"
+    },
+    {
+      "txn_id": "TXN-LDG-1025",
+      "date": "2026-03-08",
+      "amount": 51503.76,
+      "counterparty": "Vertex Digital Media",
+      "reference": "ORD-VERTEX-1025",
+      "currency": "INR"
+    },
+    {
+      "txn_id": "TXN-LDG-1021",
+      "date": "2026-03-09",
+      "amount": 52785.61,
+      "counterparty": "Apex Cloud Services",
+      "reference": "ORD-APEX-1021",
+      "currency": "INR"
+    },
+    {
+      "txn_id": "TXN-LDG-1002",
+      "date": "2026-03-08",
+      "amount": 10895.58,
+      "counterparty": "Apex Cloud Services",
+      "reference": "ORD-APEX-1002",
+      "currency": "INR"
+    },
+    {
+      "txn_id": "TXN-LDG-1046",
+      "date": "2026-03-02",
+      "amount": 23065.37,
+      "counterparty": "Apex Cloud Services",
+      "reference": "ORD-APEX-1046",
+      "currency": "INR"
+    },
+    {
+      "txn_id": "TXN-LDG-1018",
+      "date": "2026-03-03",
+      "amount": 64221.17,
+      "counterparty": "Nexus Retail Pvt Ltd",
+      "reference": "ORD-NEXUS-1018",
+      "currency": "INR"
+    },
+    {
+      "txn_id": "TXN-LDG-1034",
+      "date": "2026-03-12",
+      "amount": 16839.4,
+      "counterparty": "BlueHorizon Logistics",
+      "reference": "ORD-BLUEHOR-1034",
+      "currency": "INR"
+    },
+    {
+      "txn_id": "TXN-LDG-1003",
+      "date": "2026-03-18",
+      "amount": 6976.94,
+      "counterparty": "Stripe Billing Solutions",
+      "reference": "ORD-STRIPE-1003",
+      "currency": "INR"
+    },
+    {
+      "txn_id": "TXN-LDG-1008",
+      "date": "2026-03-09",
+      "amount": 60802.57,
+      "counterparty": "Zenith Enterprise ERP",
+      "reference": "ORD-ZENITH-1008",
+      "currency": "INR"
+    },
+    {
+      "txn_id": "TXN-LDG-1015",
+      "date": "2026-03-03",
+      "amount": 41627.03,
+      "counterparty": "BlueHorizon Logistics",
+      "reference": "ORD-BLUEHOR-1015",
+      "currency": "INR"
+    },
+    {
+      "txn_id": "TXN-LDG-1033",
+      "date": "2026-03-14",
+      "amount": 67387.8,
+      "counterparty": "Zenith Enterprise ERP",
+      "reference": "ORD-ZENITH-1033",
+      "currency": "INR"
+    },
+    {
+      "txn_id": "TXN-LDG-1006",
+      "date": "2026-03-18",
+      "amount": 15313.4,
+      "counterparty": "Acme Global Tech",
+      "reference": "ORD-ACME-1006",
+      "currency": "INR"
+    },
+    {
+      "txn_id": "TXN-LDG-1060",
+      "date": "2026-03-19",
+      "amount": 58360.26,
+      "counterparty": "Zenith Enterprise ERP",
+      "reference": "ORD-ZENITH-1060",
+      "currency": "INR"
+    },
+    {
+      "txn_id": "TXN-LDG-1009",
+      "date": "2026-03-06",
+      "amount": 52511.38,
+      "counterparty": "Acme Global Tech",
+      "reference": "ORD-ACME-1009",
+      "currency": "INR"
+    },
+    {
+      "txn_id": "TXN-LDG-1029",
+      "date": "2026-03-07",
+      "amount": 49330.18,
+      "counterparty": "FinVantage Capital",
+      "reference": "ORD-FINVAN-1029",
+      "currency": "INR"
+    },
+    {
+      "txn_id": "TXN-LDG-1035",
+      "date": "2026-03-17",
+      "amount": 37266.93,
+      "counterparty": "CloudScale Systems",
+      "reference": "ORD-CLOUD-1035",
+      "currency": "INR"
+    },
+    {
+      "txn_id": "TXN-LDG-1037",
+      "date": "2026-03-14",
+      "amount": 44932.47,
+      "counterparty": "CloudScale Systems",
+      "reference": "ORD-CLOUD-1037",
+      "currency": "INR"
+    },
+    {
+      "txn_id": "TXN-LDG-1056-DUP",
+      "date": "2026-03-08",
+      "amount": 8674.0,
+      "counterparty": "Acme Global Tech",
+      "reference": "ORD-ACME-1056",
+      "currency": "INR"
+    },
+    {
+      "txn_id": "TXN-LDG-1016",
+      "date": "2026-03-12",
+      "amount": 43512.73,
+      "counterparty": "Zenith Enterprise ERP",
+      "reference": "ORD-ZENITH-1016",
+      "currency": "INR"
+    },
+    {
+      "txn_id": "TXN-LDG-1055",
+      "date": "2026-03-08",
+      "amount": 8071.91,
+      "counterparty": "Zenith Enterprise ERP",
+      "reference": "ORD-ZENITH-1055",
+      "currency": "INR"
+    },
+    {
+      "txn_id": "TXN-LDG-1022",
+      "date": "2026-03-20",
+      "amount": 47805.88,
+      "counterparty": "Stripe Billing Solutions",
+      "reference": "ORD-STRIPE-1022",
+      "currency": "INR"
+    },
+    {
+      "txn_id": "TXN-LDG-1026",
+      "date": "2026-03-08",
+      "amount": 61724.29,
+      "counterparty": "Acme Global Tech",
+      "reference": "ORD-ACME-1026",
+      "currency": "INR"
+    },
+    {
+      "txn_id": "TXN-LDG-1048",
+      "date": "2026-03-05",
+      "amount": 6236.92,
+      "counterparty": "Vertex Digital Media",
+      "reference": "ORD-VERTEX-1048",
+      "currency": "INR"
+    },
+    {
+      "txn_id": "TXN-LDG-1055-DUP",
+      "date": "2026-03-08",
+      "amount": 8071.91,
+      "counterparty": "Zenith Enterprise ERP",
+      "reference": "ORD-ZENITH-1055",
+      "currency": "INR"
+    },
+    {
+      "txn_id": "TXN-LDG-1045",
+      "date": "2026-03-04",
+      "amount": 74682.4,
+      "counterparty": "Acme Global Tech",
+      "reference": "ORD-ACME-1045",
+      "currency": "INR"
+    },
+    {
+      "txn_id": "TXN-LDG-1042",
+      "date": "2026-03-04",
+      "amount": 23435.63,
+      "counterparty": "Vertex Digital Media",
+      "reference": "ORD-VERTEX-1042",
+      "currency": "INR"
+    },
+    {
+      "txn_id": "TXN-LDG-1044",
+      "date": "2026-03-01",
+      "amount": 49920.84,
+      "counterparty": "Vertex Digital Media",
+      "reference": "ORD-VERTEX-1044",
+      "currency": "INR"
+    },
+    {
+      "txn_id": "TXN-LDG-1004",
+      "date": "2026-03-02",
+      "amount": 2719.89,
+      "counterparty": "BlueHorizon Logistics",
+      "reference": "ORD-BLUEHOR-1004",
+      "currency": "INR"
+    },
+    {
+      "txn_id": "TXN-LDG-1047",
+      "date": "2026-03-03",
+      "amount": 59893.07,
+      "counterparty": "Stripe Billing Solutions",
+      "reference": "ORD-STRIPE-1047",
+      "currency": "INR"
+    },
+    {
+      "txn_id": "TXN-LDG-1030",
+      "date": "2026-03-21",
+      "amount": 34684.46,
+      "counterparty": "BlueHorizon Logistics",
+      "reference": "ORD-BLUEHOR-1030",
+      "currency": "INR"
+    },
+    {
+      "txn_id": "TXN-LDG-1057",
+      "date": "2026-03-11",
+      "amount": 34251.44,
+      "counterparty": "Acme Global Tech",
+      "reference": "ORD-ACME-1057",
+      "currency": "INR"
+    },
+    {
+      "txn_id": "TXN-LDG-1054",
+      "date": "2026-03-19",
+      "amount": 15632.35,
+      "counterparty": "Acme Global Tech",
+      "reference": "ORD-ACME-1054",
+      "currency": "INR"
+    },
+    {
+      "txn_id": "TXN-LDG-1023",
+      "date": "2026-03-08",
+      "amount": 12673.49,
+      "counterparty": "Vertex Digital Media",
+      "reference": "ORD-VERTEX-1023",
+      "currency": "INR"
+    },
+    {
+      "txn_id": "TXN-LDG-1028",
+      "date": "2026-03-19",
+      "amount": 65789.39,
+      "counterparty": "Apex Cloud Services",
+      "reference": "ORD-APEX-1028",
+      "currency": "INR"
+    },
+    {
+      "txn_id": "TXN-LDG-1043",
+      "date": "2026-03-05",
+      "amount": 24824.8,
+      "counterparty": "Apex Cloud Services",
+      "reference": "ORD-APEX-1043",
+      "currency": "INR"
+    },
+    {
+      "txn_id": "TXN-LDG-1056",
+      "date": "2026-03-08",
+      "amount": 8674.0,
+      "counterparty": "Acme Global Tech",
+      "reference": "ORD-ACME-1056",
+      "currency": "INR"
+    },
+    {
+      "txn_id": "TXN-LDG-1007",
+      "date": "2026-03-14",
+      "amount": 16922.83,
+      "counterparty": "Vertex Digital Media",
+      "reference": "ORD-VERTEX-1007",
+      "currency": "INR"
+    },
+    {
+      "txn_id": "TXN-LDG-1013",
+      "date": "2026-03-09",
+      "amount": 60631.06,
+      "counterparty": "Zenith Enterprise ERP",
+      "reference": "ORD-ZENITH-1013",
+      "currency": "INR"
+    },
+    {
+      "txn_id": "TXN-LDG-1027",
+      "date": "2026-03-13",
+      "amount": 20446.7,
+      "counterparty": "FinVantage Capital",
+      "reference": "ORD-FINVAN-1027",
+      "currency": "INR"
+    },
+    {
+      "txn_id": "TXN-LDG-1052",
+      "date": "2026-03-17",
+      "amount": 13481.21,
+      "counterparty": "Quantum Data Labs",
+      "reference": "ORD-QUANTUM-1052",
+      "currency": "INR"
+    },
+    {
+      "txn_id": "TXN-LDG-1031",
+      "date": "2026-03-05",
+      "amount": 18873.75,
+      "counterparty": "Nexus Retail Pvt Ltd",
+      "reference": "ORD-NEXUS-1031",
+      "currency": "INR"
+    },
+    {
+      "txn_id": "TXN-LDG-1051",
+      "date": "2026-03-13",
+      "amount": 34839.93,
+      "counterparty": "Nexus Retail Pvt Ltd",
+      "reference": "ORD-NEXUS-1051",
+      "currency": "INR"
+    }
+  ],
+  "bank": [
+    {
+      "bank_txn_id": "BNK-1059",
+      "date": "2026-03-18",
+      "amount": 15934.26,
+      "narration": "DISPUTED TRF/ORD-APEX-1059/CHARGEBACK-HOLD",
+      "utr_reference": "UTR2026001059X"
+    },
+    {
+      "bank_txn_id": "BNK-1060",
+      "date": "2026-03-19",
+      "amount": 24511.31,
+      "narration": "DISPUTED TRF/ORD-ZENITH-1060/CHARGEBACK-HOLD",
+      "utr_reference": "UTR2026001060X"
+    },
+    {
+      "bank_txn_id": "BNK-1025",
+      "date": "2026-03-08",
+      "amount": 51503.76,
+      "narration": "CMS/NEFT/ORD-VERTEX-1025/Vertex Digital Media/UTIB0001/UTR2026001025X",
+      "utr_reference": "UTR2026001025X"
+    },
+    {
+      "bank_txn_id": "BNK-1028",
+      "date": "2026-03-19",
+      "amount": 65789.39,
+      "narration": "CMS/NEFT/ORD-APEX-1028/Apex Cloud Services/UTIB0001/UTR2026001028X",
+      "utr_reference": "UTR2026001028X"
+    },
+    {
+      "bank_txn_id": "BNK-1001",
+      "date": "2026-03-01",
+      "amount": 55745.51,
+      "narration": "CMS/NEFT/ORD-STRIPE-1001/Stripe Billing Solutions/UTIB0001/UTR2026001001X",
+      "utr_reference": "UTR2026001001X"
+    },
+    {
+      "bank_txn_id": "BNK-1024",
+      "date": "2026-03-09",
+      "amount": 74219.49,
+      "narration": "CMS/NEFT/ORD-BLUEHOR-1024/BlueHorizon Logistics/UTIB0001/UTR2026001024X",
+      "utr_reference": "UTR2026001024X"
+    },
+    {
+      "bank_txn_id": "BNK-1022",
+      "date": "2026-03-20",
+      "amount": 47805.88,
+      "narration": "CMS/NEFT/ORD-STRIPE-1022/Stripe Billing Solutions/UTIB0001/UTR2026001022X",
+      "utr_reference": "UTR2026001022X"
+    },
+    {
+      "bank_txn_id": "BNK-1015",
+      "date": "2026-03-03",
+      "amount": 41627.03,
+      "narration": "CMS/NEFT/ORD-BLUEHOR-1015/BlueHorizon Logistics/UTIB0001/UTR2026001015X",
+      "utr_reference": "UTR2026001015X"
+    },
+    {
+      "bank_txn_id": "BNK-1023",
+      "date": "2026-03-08",
+      "amount": 12673.49,
+      "narration": "CMS/NEFT/ORD-VERTEX-1023/Vertex Digital Media/UTIB0001/UTR2026001023X",
+      "utr_reference": "UTR2026001023X"
+    },
+    {
+      "bank_txn_id": "BNK-1042",
+      "date": "2026-03-06",
+      "amount": 23435.63,
+      "narration": "SETTLEMENT/ORD-VERTEX-1042/Vertex Digital Media/UTR2026001042T",
+      "utr_reference": "UTR2026001042T"
+    },
+    {
+      "bank_txn_id": "BNK-1051",
+      "date": "2026-03-13",
+      "amount": 34839.93,
+      "narration": "IMPS/P2A/1051/NexusRet",
+      "utr_reference": "UTR2026001051Z"
+    },
+    {
+      "bank_txn_id": "BNK-1040",
+      "date": "2026-03-12",
+      "amount": 20242.72,
+      "narration": "SETTLEMENT/ORD-NEXUS-1040/Nexus Retail Pvt Ltd/UTR2026001040T",
+      "utr_reference": "UTR2026001040T"
+    },
+    {
+      "bank_txn_id": "BNK-1045",
+      "date": "2026-03-04",
+      "amount": 73188.75,
+      "narration": "RAZORPAY/NET-SETTLE/ORD-ACME-1045/UTR2026001045F",
+      "utr_reference": "UTR2026001045F"
+    },
+    {
+      "bank_txn_id": "BNK-1037",
+      "date": "2026-03-14",
+      "amount": 44932.47,
+      "narration": "CMS/NEFT/ORD-CLOUD-1037/CloudScale Systems/UTIB0001/UTR2026001037X",
+      "utr_reference": "UTR2026001037X"
+    },
+    {
+      "bank_txn_id": "BNK-1018",
+      "date": "2026-03-03",
+      "amount": 64221.17,
+      "narration": "CMS/NEFT/ORD-NEXUS-1018/Nexus Retail Pvt Ltd/UTIB0001/UTR2026001018X",
+      "utr_reference": "UTR2026001018X"
+    },
+    {
+      "bank_txn_id": "BNK-1007",
+      "date": "2026-03-14",
+      "amount": 16922.83,
+      "narration": "CMS/NEFT/ORD-VERTEX-1007/Vertex Digital Media/UTIB0001/UTR2026001007X",
+      "utr_reference": "UTR2026001007X"
+    },
+    {
+      "bank_txn_id": "BNK-1009",
+      "date": "2026-03-06",
+      "amount": 52511.38,
+      "narration": "CMS/NEFT/ORD-ACME-1009/Acme Global Tech/UTIB0001/UTR2026001009X",
+      "utr_reference": "UTR2026001009X"
+    },
+    {
+      "bank_txn_id": "BNK-1041",
+      "date": "2026-03-03",
+      "amount": 34573.94,
+      "narration": "SETTLEMENT/ORD-QUANTUM-1041/Quantum Data Labs/UTR2026001041T",
+      "utr_reference": "UTR2026001041T"
+    },
+    {
+      "bank_txn_id": "BNK-1017",
+      "date": "2026-03-02",
+      "amount": 49764.12,
+      "narration": "CMS/NEFT/ORD-STRIPE-1017/Stripe Billing Solutions/UTIB0001/UTR2026001017X",
+      "utr_reference": "UTR2026001017X"
+    },
+    {
+      "bank_txn_id": "BNK-1049",
+      "date": "2026-03-06",
+      "amount": 10746.87,
+      "narration": "NEFT CR-1049-VERTEX-CORP",
+      "utr_reference": "UTR2026001049Z"
+    },
+    {
+      "bank_txn_id": "BNK-1027",
+      "date": "2026-03-13",
+      "amount": 20446.7,
+      "narration": "CMS/NEFT/ORD-FINVAN-1027/FinVantage Capital/UTIB0001/UTR2026001027X",
+      "utr_reference": "UTR2026001027X"
+    },
+    {
+      "bank_txn_id": "BNK-1057",
+      "date": "2026-03-11",
+      "amount": 14385.6,
+      "narration": "DISPUTED TRF/ORD-ACME-1057/CHARGEBACK-HOLD",
+      "utr_reference": "UTR2026001057X"
+    },
+    {
+      "bank_txn_id": "BNK-1003",
+      "date": "2026-03-18",
+      "amount": 6976.94,
+      "narration": "CMS/NEFT/ORD-STRIPE-1003/Stripe Billing Solutions/UTIB0001/UTR2026001003X",
+      "utr_reference": "UTR2026001003X"
+    },
+    {
+      "bank_txn_id": "BNK-1039",
+      "date": "2026-03-02",
+      "amount": 39953.73,
+      "narration": "SETTLEMENT/ORD-VERTEX-1039/Vertex Digital Media/UTR2026001039T",
+      "utr_reference": "UTR2026001039T"
+    },
+    {
+      "bank_txn_id": "BNK-1002",
+      "date": "2026-03-08",
+      "amount": 10895.58,
+      "narration": "CMS/NEFT/ORD-APEX-1002/Apex Cloud Services/UTIB0001/UTR2026001002X",
+      "utr_reference": "UTR2026001002X"
+    },
+    {
+      "bank_txn_id": "BNK-1020",
+      "date": "2026-03-06",
+      "amount": 28078.48,
+      "narration": "CMS/NEFT/ORD-FINVAN-1020/FinVantage Capital/UTIB0001/UTR2026001020X",
+      "utr_reference": "UTR2026001020X"
+    },
+    {
+      "bank_txn_id": "BNK-1030",
+      "date": "2026-03-21",
+      "amount": 34684.46,
+      "narration": "CMS/NEFT/ORD-BLUEHOR-1030/BlueHorizon Logistics/UTIB0001/UTR2026001030X",
+      "utr_reference": "UTR2026001030X"
+    },
+    {
+      "bank_txn_id": "BNK-1032",
+      "date": "2026-03-18",
+      "amount": 20074.25,
+      "narration": "CMS/NEFT/ORD-VERTEX-1032/Vertex Digital Media/UTIB0001/UTR2026001032X",
+      "utr_reference": "UTR2026001032X"
+    },
+    {
+      "bank_txn_id": "BNK-1058",
+      "date": "2026-03-09",
+      "amount": 29458.24,
+      "narration": "DISPUTED TRF/ORD-APEX-1058/CHARGEBACK-HOLD",
+      "utr_reference": "UTR2026001058X"
+    },
+    {
+      "bank_txn_id": "BNK-1029",
+      "date": "2026-03-07",
+      "amount": 49330.18,
+      "narration": "CMS/NEFT/ORD-FINVAN-1029/FinVantage Capital/UTIB0001/UTR2026001029X",
+      "utr_reference": "UTR2026001029X"
+    },
+    {
+      "bank_txn_id": "BNK-1044",
+      "date": "2026-03-01",
+      "amount": 48922.42,
+      "narration": "RAZORPAY/NET-SETTLE/ORD-VERTEX-1044/UTR2026001044F",
+      "utr_reference": "UTR2026001044F"
+    },
+    {
+      "bank_txn_id": "BNK-1008",
+      "date": "2026-03-09",
+      "amount": 60802.57,
+      "narration": "CMS/NEFT/ORD-ZENITH-1008/Zenith Enterprise ERP/UTIB0001/UTR2026001008X",
+      "utr_reference": "UTR2026001008X"
+    },
+    {
+      "bank_txn_id": "BNK-1026",
+      "date": "2026-03-08",
+      "amount": 61724.29,
+      "narration": "CMS/NEFT/ORD-ACME-1026/Acme Global Tech/UTIB0001/UTR2026001026X",
+      "utr_reference": "UTR2026001026X"
+    },
+    {
+      "bank_txn_id": "BNK-1016",
+      "date": "2026-03-12",
+      "amount": 43512.73,
+      "narration": "CMS/NEFT/ORD-ZENITH-1016/Zenith Enterprise ERP/UTIB0001/UTR2026001016X",
+      "utr_reference": "UTR2026001016X"
+    },
+    {
+      "bank_txn_id": "BNK-1036",
+      "date": "2026-03-04",
+      "amount": 11886.68,
+      "narration": "CMS/NEFT/ORD-ACME-1036/Acme Global Tech/UTIB0001/UTR2026001036X",
+      "utr_reference": "UTR2026001036X"
+    },
+    {
+      "bank_txn_id": "BNK-1005",
+      "date": "2026-03-08",
+      "amount": 38148.97,
+      "narration": "CMS/NEFT/ORD-APEX-1005/Apex Cloud Services/UTIB0001/UTR2026001005X",
+      "utr_reference": "UTR2026001005X"
+    },
+    {
+      "bank_txn_id": "BNK-1012",
+      "date": "2026-03-12",
+      "amount": 63638.33,
+      "narration": "CMS/NEFT/ORD-STRIPE-1012/Stripe Billing Solutions/UTIB0001/UTR2026001012X",
+      "utr_reference": "UTR2026001012X"
+    },
+    {
+      "bank_txn_id": "BNK-1006",
+      "date": "2026-03-18",
+      "amount": 15313.4,
+      "narration": "CMS/NEFT/ORD-ACME-1006/Acme Global Tech/UTIB0001/UTR2026001006X",
+      "utr_reference": "UTR2026001006X"
+    },
+    {
+      "bank_txn_id": "BNK-1043",
+      "date": "2026-03-07",
+      "amount": 24824.8,
+      "narration": "SETTLEMENT/ORD-APEX-1043/Apex Cloud Services/UTR2026001043T",
+      "utr_reference": "UTR2026001043T"
+    },
+    {
+      "bank_txn_id": "BNK-1046",
+      "date": "2026-03-02",
+      "amount": 22521.03,
+      "narration": "RAZORPAY/NET-SETTLE/ORD-APEX-1046/UTR2026001046F",
+      "utr_reference": "UTR2026001046F"
+    },
+    {
+      "bank_txn_id": "BNK-1011",
+      "date": "2026-03-04",
+      "amount": 7409.57,
+      "narration": "CMS/NEFT/ORD-FINVAN-1011/FinVantage Capital/UTIB0001/UTR2026001011X",
+      "utr_reference": "UTR2026001011X"
+    },
+    {
+      "bank_txn_id": "BNK-1034",
+      "date": "2026-03-12",
+      "amount": 16839.4,
+      "narration": "CMS/NEFT/ORD-BLUEHOR-1034/BlueHorizon Logistics/UTIB0001/UTR2026001034X",
+      "utr_reference": "UTR2026001034X"
+    },
+    {
+      "bank_txn_id": "BNK-1033",
+      "date": "2026-03-14",
+      "amount": 67387.8,
+      "narration": "CMS/NEFT/ORD-ZENITH-1033/Zenith Enterprise ERP/UTIB0001/UTR2026001033X",
+      "utr_reference": "UTR2026001033X"
+    },
+    {
+      "bank_txn_id": "BNK-1031",
+      "date": "2026-03-05",
+      "amount": 18873.75,
+      "narration": "CMS/NEFT/ORD-NEXUS-1031/Nexus Retail Pvt Ltd/UTIB0001/UTR2026001031X",
+      "utr_reference": "UTR2026001031X"
+    },
+    {
+      "bank_txn_id": "BNK-1055",
+      "date": "2026-03-08",
+      "amount": 8071.91,
+      "narration": "NEFT/ORD-ZENITH-1055/Zenith Enterprise ERP/UTR2026001055D",
+      "utr_reference": "UTR2026001055D"
+    },
+    {
+      "bank_txn_id": "BNK-1047",
+      "date": "2026-03-03",
+      "amount": 58994.67,
+      "narration": "RAZORPAY/NET-SETTLE/ORD-STRIPE-1047/UTR2026001047F",
+      "utr_reference": "UTR2026001047F"
+    },
+    {
+      "bank_txn_id": "BNK-1050",
+      "date": "2026-03-18",
+      "amount": 26923.75,
+      "narration": "POS DEBIT TRF 1050 APEX",
+      "utr_reference": "UTR2026001050Z"
+    },
+    {
+      "bank_txn_id": "BNK-1021",
+      "date": "2026-03-09",
+      "amount": 52785.61,
+      "narration": "CMS/NEFT/ORD-APEX-1021/Apex Cloud Services/UTIB0001/UTR2026001021X",
+      "utr_reference": "UTR2026001021X"
+    },
+    {
+      "bank_txn_id": "BNK-1053",
+      "date": "2026-03-08",
+      "amount": 5344.54,
+      "narration": "DIRECT WIRE/UNIDENTIFIED CREDIT/Apex Cloud Services",
+      "utr_reference": "UTR2026001053M"
+    },
+    {
+      "bank_txn_id": "BNK-1056",
+      "date": "2026-03-08",
+      "amount": 8674.0,
+      "narration": "NEFT/ORD-ACME-1056/Acme Global Tech/UTR2026001056D",
+      "utr_reference": "UTR2026001056D"
+    },
+    {
+      "bank_txn_id": "BNK-1035",
+      "date": "2026-03-17",
+      "amount": 37266.93,
+      "narration": "CMS/NEFT/ORD-CLOUD-1035/CloudScale Systems/UTIB0001/UTR2026001035X",
+      "utr_reference": "UTR2026001035X"
+    },
+    {
+      "bank_txn_id": "BNK-1048",
+      "date": "2026-03-05",
+      "amount": 6236.92,
+      "narration": "NEFT CR-1048-VERTEX-CORP",
+      "utr_reference": "UTR2026001048Z"
+    },
+    {
+      "bank_txn_id": "BNK-1038",
+      "date": "2026-03-15",
+      "amount": 12211.94,
+      "narration": "SETTLEMENT/ORD-BLUEHOR-1038/BlueHorizon Logistics/UTR2026001038T",
+      "utr_reference": "UTR2026001038T"
+    },
+    {
+      "bank_txn_id": "BNK-1004",
+      "date": "2026-03-02",
+      "amount": 2719.89,
+      "narration": "CMS/NEFT/ORD-BLUEHOR-1004/BlueHorizon Logistics/UTIB0001/UTR2026001004X",
+      "utr_reference": "UTR2026001004X"
+    },
+    {
+      "bank_txn_id": "BNK-1014",
+      "date": "2026-03-18",
+      "amount": 9799.55,
+      "narration": "CMS/NEFT/ORD-QUANTUM-1014/Quantum Data Labs/UTIB0001/UTR2026001014X",
+      "utr_reference": "UTR2026001014X"
+    },
+    {
+      "bank_txn_id": "BNK-1019",
+      "date": "2026-03-13",
+      "amount": 21209.03,
+      "narration": "CMS/NEFT/ORD-STRIPE-1019/Stripe Billing Solutions/UTIB0001/UTR2026001019X",
+      "utr_reference": "UTR2026001019X"
+    },
+    {
+      "bank_txn_id": "BNK-1013",
+      "date": "2026-03-09",
+      "amount": 60631.06,
+      "narration": "CMS/NEFT/ORD-ZENITH-1013/Zenith Enterprise ERP/UTIB0001/UTR2026001013X",
+      "utr_reference": "UTR2026001013X"
+    },
+    {
+      "bank_txn_id": "BNK-1010",
+      "date": "2026-03-09",
+      "amount": 12083.22,
+      "narration": "CMS/NEFT/ORD-FINVAN-1010/FinVantage Capital/UTIB0001/UTR2026001010X",
+      "utr_reference": "UTR2026001010X"
+    }
+  ],
+  "gateway": [
+    {
+      "payment_id": "pay_00001049",
+      "settled_amount": 10746.87,
+      "fee": 0.0,
+      "settlement_date": "2026-03-06",
+      "order_ref": "VERTEX-1049"
+    },
+    {
+      "payment_id": "pay_00001050",
+      "settled_amount": 26923.75,
+      "fee": 0.0,
+      "settlement_date": "2026-03-18",
+      "order_ref": "APEX-1050"
+    },
+    {
+      "payment_id": "pay_00001026",
+      "settled_amount": 61724.29,
+      "fee": 0.0,
+      "settlement_date": "2026-03-08",
+      "order_ref": "ORD-ACME-1026"
+    },
+    {
+      "payment_id": "pay_00001025",
+      "settled_amount": 51503.76,
+      "fee": 0.0,
+      "settlement_date": "2026-03-08",
+      "order_ref": "ORD-VERTEX-1025"
+    },
+    {
+      "payment_id": "pay_00001004",
+      "settled_amount": 2719.89,
+      "fee": 0.0,
+      "settlement_date": "2026-03-02",
+      "order_ref": "ORD-BLUEHOR-1004"
+    },
+    {
+      "payment_id": "pay_00001013",
+      "settled_amount": 60631.06,
+      "fee": 0.0,
+      "settlement_date": "2026-03-09",
+      "order_ref": "ORD-ZENITH-1013"
+    },
+    {
+      "payment_id": "pay_00001031",
+      "settled_amount": 18873.75,
+      "fee": 0.0,
+      "settlement_date": "2026-03-05",
+      "order_ref": "ORD-NEXUS-1031"
+    },
+    {
+      "payment_id": "pay_00001046",
+      "settled_amount": 22521.03,
+      "fee": 544.34,
+      "settlement_date": "2026-03-02",
+      "order_ref": "ORD-APEX-1046"
+    },
+    {
+      "payment_id": "pay_00001012",
+      "settled_amount": 63638.33,
+      "fee": 0.0,
+      "settlement_date": "2026-03-12",
+      "order_ref": "ORD-STRIPE-1012"
+    },
+    {
+      "payment_id": "pay_00001052",
+      "settled_amount": 13481.21,
+      "fee": 0.0,
+      "settlement_date": "2026-03-17",
+      "order_ref": "ORD-QUANTUM-1052"
+    },
+    {
+      "payment_id": "pay_00001027",
+      "settled_amount": 20446.7,
+      "fee": 0.0,
+      "settlement_date": "2026-03-13",
+      "order_ref": "ORD-FINVAN-1027"
+    },
+    {
+      "payment_id": "pay_00001032",
+      "settled_amount": 20074.25,
+      "fee": 0.0,
+      "settlement_date": "2026-03-18",
+      "order_ref": "ORD-VERTEX-1032"
+    },
+    {
+      "payment_id": "pay_00001006",
+      "settled_amount": 15313.4,
+      "fee": 0.0,
+      "settlement_date": "2026-03-18",
+      "order_ref": "ORD-ACME-1006"
+    },
+    {
+      "payment_id": "pay_00001015",
+      "settled_amount": 41627.03,
+      "fee": 0.0,
+      "settlement_date": "2026-03-03",
+      "order_ref": "ORD-BLUEHOR-1015"
+    },
+    {
+      "payment_id": "pay_00001041",
+      "settled_amount": 34573.94,
+      "fee": 0.0,
+      "settlement_date": "2026-03-04",
+      "order_ref": "ORD-QUANTUM-1041"
+    },
+    {
+      "payment_id": "pay_00001030",
+      "settled_amount": 34684.46,
+      "fee": 0.0,
+      "settlement_date": "2026-03-21",
+      "order_ref": "ORD-BLUEHOR-1030"
+    },
+    {
+      "payment_id": "pay_00001058",
+      "settled_amount": 70138.67,
+      "fee": 0.0,
+      "settlement_date": "2026-03-09",
+      "order_ref": "ORD-APEX-1058"
+    },
+    {
+      "payment_id": "pay_00001003",
+      "settled_amount": 6976.94,
+      "fee": 0.0,
+      "settlement_date": "2026-03-18",
+      "order_ref": "ORD-STRIPE-1003"
+    },
+    {
+      "payment_id": "pay_00001002",
+      "settled_amount": 10895.58,
+      "fee": 0.0,
+      "settlement_date": "2026-03-08",
+      "order_ref": "ORD-APEX-1002"
+    },
+    {
+      "payment_id": "pay_00001028",
+      "settled_amount": 65789.39,
+      "fee": 0.0,
+      "settlement_date": "2026-03-19",
+      "order_ref": "ORD-APEX-1028"
+    },
+    {
+      "payment_id": "pay_00001051",
+      "settled_amount": 34839.93,
+      "fee": 0.0,
+      "settlement_date": "2026-03-13",
+      "order_ref": "NEXUS-1051"
+    },
+    {
+      "payment_id": "pay_00001044",
+      "settled_amount": 48922.42,
+      "fee": 998.42,
+      "settlement_date": "2026-03-01",
+      "order_ref": "ORD-VERTEX-1044"
+    },
+    {
+      "payment_id": "pay_00001037",
+      "settled_amount": 44932.47,
+      "fee": 0.0,
+      "settlement_date": "2026-03-14",
+      "order_ref": "ORD-CLOUD-1037"
+    },
+    {
+      "payment_id": "pay_00001021",
+      "settled_amount": 52785.61,
+      "fee": 0.0,
+      "settlement_date": "2026-03-09",
+      "order_ref": "ORD-APEX-1021"
+    },
+    {
+      "payment_id": "pay_00001022",
+      "settled_amount": 47805.88,
+      "fee": 0.0,
+      "settlement_date": "2026-03-20",
+      "order_ref": "ORD-STRIPE-1022"
+    },
+    {
+      "payment_id": "pay_00001047",
+      "settled_amount": 58994.67,
+      "fee": 898.4,
+      "settlement_date": "2026-03-03",
+      "order_ref": "ORD-STRIPE-1047"
+    },
+    {
+      "payment_id": "pay_00001048",
+      "settled_amount": 6236.92,
+      "fee": 0.0,
+      "settlement_date": "2026-03-05",
+      "order_ref": "VERTEX-1048"
+    },
+    {
+      "payment_id": "pay_00001054",
+      "settled_amount": 15632.35,
+      "fee": 0.0,
+      "settlement_date": "2026-03-19",
+      "order_ref": "ORD-ACME-1054"
+    },
+    {
+      "payment_id": "pay_00001043",
+      "settled_amount": 24824.8,
+      "fee": 0.0,
+      "settlement_date": "2026-03-06",
+      "order_ref": "ORD-APEX-1043"
+    },
+    {
+      "payment_id": "pay_00001039",
+      "settled_amount": 39953.73,
+      "fee": 0.0,
+      "settlement_date": "2026-03-04",
+      "order_ref": "ORD-VERTEX-1039"
+    },
+    {
+      "payment_id": "pay_00001057",
+      "settled_amount": 34251.44,
+      "fee": 0.0,
+      "settlement_date": "2026-03-11",
+      "order_ref": "ORD-ACME-1057"
+    },
+    {
+      "payment_id": "pay_00001018",
+      "settled_amount": 64221.17,
+      "fee": 0.0,
+      "settlement_date": "2026-03-03",
+      "order_ref": "ORD-NEXUS-1018"
+    },
+    {
+      "payment_id": "pay_00001010",
+      "settled_amount": 12083.22,
+      "fee": 0.0,
+      "settlement_date": "2026-03-09",
+      "order_ref": "ORD-FINVAN-1010"
+    },
+    {
+      "payment_id": "pay_00001038",
+      "settled_amount": 12211.94,
+      "fee": 0.0,
+      "settlement_date": "2026-03-16",
+      "order_ref": "ORD-BLUEHOR-1038"
+    },
+    {
+      "payment_id": "pay_00001008",
+      "settled_amount": 60802.57,
+      "fee": 0.0,
+      "settlement_date": "2026-03-09",
+      "order_ref": "ORD-ZENITH-1008"
+    },
+    {
+      "payment_id": "pay_00001056",
+      "settled_amount": 8674.0,
+      "fee": 0.0,
+      "settlement_date": "2026-03-08",
+      "order_ref": "ORD-ACME-1056"
+    },
+    {
+      "payment_id": "pay_00001055",
+      "settled_amount": 8071.91,
+      "fee": 0.0,
+      "settlement_date": "2026-03-08",
+      "order_ref": "ORD-ZENITH-1055"
+    },
+    {
+      "payment_id": "pay_00001007",
+      "settled_amount": 16922.83,
+      "fee": 0.0,
+      "settlement_date": "2026-03-14",
+      "order_ref": "ORD-VERTEX-1007"
+    },
+    {
+      "payment_id": "pay_00001045",
+      "settled_amount": 73188.75,
+      "fee": 1493.65,
+      "settlement_date": "2026-03-04",
+      "order_ref": "ORD-ACME-1045"
+    },
+    {
+      "payment_id": "pay_00001036",
+      "settled_amount": 11886.68,
+      "fee": 0.0,
+      "settlement_date": "2026-03-04",
+      "order_ref": "ORD-ACME-1036"
+    },
+    {
+      "payment_id": "pay_00001001",
+      "settled_amount": 55745.51,
+      "fee": 0.0,
+      "settlement_date": "2026-03-01",
+      "order_ref": "ORD-STRIPE-1001"
+    },
+    {
+      "payment_id": "pay_00001034",
+      "settled_amount": 16839.4,
+      "fee": 0.0,
+      "settlement_date": "2026-03-12",
+      "order_ref": "ORD-BLUEHOR-1034"
+    },
+    {
+      "payment_id": "pay_00001042",
+      "settled_amount": 23435.63,
+      "fee": 0.0,
+      "settlement_date": "2026-03-07",
+      "order_ref": "ORD-VERTEX-1042"
+    },
+    {
+      "payment_id": "pay_00001040",
+      "settled_amount": 20242.72,
+      "fee": 0.0,
+      "settlement_date": "2026-03-13",
+      "order_ref": "ORD-NEXUS-1040"
+    },
+    {
+      "payment_id": "pay_00001020",
+      "settled_amount": 28078.48,
+      "fee": 0.0,
+      "settlement_date": "2026-03-06",
+      "order_ref": "ORD-FINVAN-1020"
+    },
+    {
+      "payment_id": "pay_00001059",
+      "settled_amount": 37938.71,
+      "fee": 0.0,
+      "settlement_date": "2026-03-18",
+      "order_ref": "ORD-APEX-1059"
+    },
+    {
+      "payment_id": "pay_00001029",
+      "settled_amount": 49330.18,
+      "fee": 0.0,
+      "settlement_date": "2026-03-07",
+      "order_ref": "ORD-FINVAN-1029"
+    },
+    {
+      "payment_id": "pay_00001011",
+      "settled_amount": 7409.57,
+      "fee": 0.0,
+      "settlement_date": "2026-03-04",
+      "order_ref": "ORD-FINVAN-1011"
+    },
+    {
+      "payment_id": "pay_00001019",
+      "settled_amount": 21209.03,
+      "fee": 0.0,
+      "settlement_date": "2026-03-13",
+      "order_ref": "ORD-STRIPE-1019"
+    },
+    {
+      "payment_id": "pay_00001024",
+      "settled_amount": 74219.49,
+      "fee": 0.0,
+      "settlement_date": "2026-03-09",
+      "order_ref": "ORD-BLUEHOR-1024"
+    },
+    {
+      "payment_id": "pay_00001016",
+      "settled_amount": 43512.73,
+      "fee": 0.0,
+      "settlement_date": "2026-03-12",
+      "order_ref": "ORD-ZENITH-1016"
+    },
+    {
+      "payment_id": "pay_00001060",
+      "settled_amount": 58360.26,
+      "fee": 0.0,
+      "settlement_date": "2026-03-19",
+      "order_ref": "ORD-ZENITH-1060"
+    },
+    {
+      "payment_id": "pay_00001023",
+      "settled_amount": 12673.49,
+      "fee": 0.0,
+      "settlement_date": "2026-03-08",
+      "order_ref": "ORD-VERTEX-1023"
+    },
+    {
+      "payment_id": "pay_00001009",
+      "settled_amount": 52511.38,
+      "fee": 0.0,
+      "settlement_date": "2026-03-06",
+      "order_ref": "ORD-ACME-1009"
+    },
+    {
+      "payment_id": "pay_00001017",
+      "settled_amount": 49764.12,
+      "fee": 0.0,
+      "settlement_date": "2026-03-02",
+      "order_ref": "ORD-STRIPE-1017"
+    },
+    {
+      "payment_id": "pay_00001033",
+      "settled_amount": 67387.8,
+      "fee": 0.0,
+      "settlement_date": "2026-03-14",
+      "order_ref": "ORD-ZENITH-1033"
+    },
+    {
+      "payment_id": "pay_00001014",
+      "settled_amount": 9799.55,
+      "fee": 0.0,
+      "settlement_date": "2026-03-18",
+      "order_ref": "ORD-QUANTUM-1014"
+    },
+    {
+      "payment_id": "pay_00001035",
+      "settled_amount": 37266.93,
+      "fee": 0.0,
+      "settlement_date": "2026-03-17",
+      "order_ref": "ORD-CLOUD-1035"
+    },
+    {
+      "payment_id": "pay_00001005",
+      "settled_amount": 38148.97,
+      "fee": 0.0,
+      "settlement_date": "2026-03-08",
+      "order_ref": "ORD-APEX-1005"
+    }
+  ],
+  "ground_truth": [
+    {
+      "group_id": "GRP-1001",
+      "type": "EXACT_MATCH",
+      "expected_status": "MATCHED_EXACT",
+      "ledger_id": "TXN-LDG-1001",
+      "bank_id": "BNK-1001",
+      "gateway_id": "pay_00001001",
+      "base_amount": 55745.51,
+      "notes": "Exact 3-way match across amount, date, and reference."
+    },
+    {
+      "group_id": "GRP-1002",
+      "type": "EXACT_MATCH",
+      "expected_status": "MATCHED_EXACT",
+      "ledger_id": "TXN-LDG-1002",
+      "bank_id": "BNK-1002",
+      "gateway_id": "pay_00001002",
+      "base_amount": 10895.58,
+      "notes": "Exact 3-way match across amount, date, and reference."
+    },
+    {
+      "group_id": "GRP-1003",
+      "type": "EXACT_MATCH",
+      "expected_status": "MATCHED_EXACT",
+      "ledger_id": "TXN-LDG-1003",
+      "bank_id": "BNK-1003",
+      "gateway_id": "pay_00001003",
+      "base_amount": 6976.94,
+      "notes": "Exact 3-way match across amount, date, and reference."
+    },
+    {
+      "group_id": "GRP-1004",
+      "type": "EXACT_MATCH",
+      "expected_status": "MATCHED_EXACT",
+      "ledger_id": "TXN-LDG-1004",
+      "bank_id": "BNK-1004",
+      "gateway_id": "pay_00001004",
+      "base_amount": 2719.89,
+      "notes": "Exact 3-way match across amount, date, and reference."
+    },
+    {
+      "group_id": "GRP-1005",
+      "type": "EXACT_MATCH",
+      "expected_status": "MATCHED_EXACT",
+      "ledger_id": "TXN-LDG-1005",
+      "bank_id": "BNK-1005",
+      "gateway_id": "pay_00001005",
+      "base_amount": 38148.97,
+      "notes": "Exact 3-way match across amount, date, and reference."
+    },
+    {
+      "group_id": "GRP-1006",
+      "type": "EXACT_MATCH",
+      "expected_status": "MATCHED_EXACT",
+      "ledger_id": "TXN-LDG-1006",
+      "bank_id": "BNK-1006",
+      "gateway_id": "pay_00001006",
+      "base_amount": 15313.4,
+      "notes": "Exact 3-way match across amount, date, and reference."
+    },
+    {
+      "group_id": "GRP-1007",
+      "type": "EXACT_MATCH",
+      "expected_status": "MATCHED_EXACT",
+      "ledger_id": "TXN-LDG-1007",
+      "bank_id": "BNK-1007",
+      "gateway_id": "pay_00001007",
+      "base_amount": 16922.83,
+      "notes": "Exact 3-way match across amount, date, and reference."
+    },
+    {
+      "group_id": "GRP-1008",
+      "type": "EXACT_MATCH",
+      "expected_status": "MATCHED_EXACT",
+      "ledger_id": "TXN-LDG-1008",
+      "bank_id": "BNK-1008",
+      "gateway_id": "pay_00001008",
+      "base_amount": 60802.57,
+      "notes": "Exact 3-way match across amount, date, and reference."
+    },
+    {
+      "group_id": "GRP-1009",
+      "type": "EXACT_MATCH",
+      "expected_status": "MATCHED_EXACT",
+      "ledger_id": "TXN-LDG-1009",
+      "bank_id": "BNK-1009",
+      "gateway_id": "pay_00001009",
+      "base_amount": 52511.38,
+      "notes": "Exact 3-way match across amount, date, and reference."
+    },
+    {
+      "group_id": "GRP-1010",
+      "type": "EXACT_MATCH",
+      "expected_status": "MATCHED_EXACT",
+      "ledger_id": "TXN-LDG-1010",
+      "bank_id": "BNK-1010",
+      "gateway_id": "pay_00001010",
+      "base_amount": 12083.22,
+      "notes": "Exact 3-way match across amount, date, and reference."
+    },
+    {
+      "group_id": "GRP-1011",
+      "type": "EXACT_MATCH",
+      "expected_status": "MATCHED_EXACT",
+      "ledger_id": "TXN-LDG-1011",
+      "bank_id": "BNK-1011",
+      "gateway_id": "pay_00001011",
+      "base_amount": 7409.57,
+      "notes": "Exact 3-way match across amount, date, and reference."
+    },
+    {
+      "group_id": "GRP-1012",
+      "type": "EXACT_MATCH",
+      "expected_status": "MATCHED_EXACT",
+      "ledger_id": "TXN-LDG-1012",
+      "bank_id": "BNK-1012",
+      "gateway_id": "pay_00001012",
+      "base_amount": 63638.33,
+      "notes": "Exact 3-way match across amount, date, and reference."
+    },
+    {
+      "group_id": "GRP-1013",
+      "type": "EXACT_MATCH",
+      "expected_status": "MATCHED_EXACT",
+      "ledger_id": "TXN-LDG-1013",
+      "bank_id": "BNK-1013",
+      "gateway_id": "pay_00001013",
+      "base_amount": 60631.06,
+      "notes": "Exact 3-way match across amount, date, and reference."
+    },
+    {
+      "group_id": "GRP-1014",
+      "type": "EXACT_MATCH",
+      "expected_status": "MATCHED_EXACT",
+      "ledger_id": "TXN-LDG-1014",
+      "bank_id": "BNK-1014",
+      "gateway_id": "pay_00001014",
+      "base_amount": 9799.55,
+      "notes": "Exact 3-way match across amount, date, and reference."
+    },
+    {
+      "group_id": "GRP-1015",
+      "type": "EXACT_MATCH",
+      "expected_status": "MATCHED_EXACT",
+      "ledger_id": "TXN-LDG-1015",
+      "bank_id": "BNK-1015",
+      "gateway_id": "pay_00001015",
+      "base_amount": 41627.03,
+      "notes": "Exact 3-way match across amount, date, and reference."
+    },
+    {
+      "group_id": "GRP-1016",
+      "type": "EXACT_MATCH",
+      "expected_status": "MATCHED_EXACT",
+      "ledger_id": "TXN-LDG-1016",
+      "bank_id": "BNK-1016",
+      "gateway_id": "pay_00001016",
+      "base_amount": 43512.73,
+      "notes": "Exact 3-way match across amount, date, and reference."
+    },
+    {
+      "group_id": "GRP-1017",
+      "type": "EXACT_MATCH",
+      "expected_status": "MATCHED_EXACT",
+      "ledger_id": "TXN-LDG-1017",
+      "bank_id": "BNK-1017",
+      "gateway_id": "pay_00001017",
+      "base_amount": 49764.12,
+      "notes": "Exact 3-way match across amount, date, and reference."
+    },
+    {
+      "group_id": "GRP-1018",
+      "type": "EXACT_MATCH",
+      "expected_status": "MATCHED_EXACT",
+      "ledger_id": "TXN-LDG-1018",
+      "bank_id": "BNK-1018",
+      "gateway_id": "pay_00001018",
+      "base_amount": 64221.17,
+      "notes": "Exact 3-way match across amount, date, and reference."
+    },
+    {
+      "group_id": "GRP-1019",
+      "type": "EXACT_MATCH",
+      "expected_status": "MATCHED_EXACT",
+      "ledger_id": "TXN-LDG-1019",
+      "bank_id": "BNK-1019",
+      "gateway_id": "pay_00001019",
+      "base_amount": 21209.03,
+      "notes": "Exact 3-way match across amount, date, and reference."
+    },
+    {
+      "group_id": "GRP-1020",
+      "type": "EXACT_MATCH",
+      "expected_status": "MATCHED_EXACT",
+      "ledger_id": "TXN-LDG-1020",
+      "bank_id": "BNK-1020",
+      "gateway_id": "pay_00001020",
+      "base_amount": 28078.48,
+      "notes": "Exact 3-way match across amount, date, and reference."
+    },
+    {
+      "group_id": "GRP-1021",
+      "type": "EXACT_MATCH",
+      "expected_status": "MATCHED_EXACT",
+      "ledger_id": "TXN-LDG-1021",
+      "bank_id": "BNK-1021",
+      "gateway_id": "pay_00001021",
+      "base_amount": 52785.61,
+      "notes": "Exact 3-way match across amount, date, and reference."
+    },
+    {
+      "group_id": "GRP-1022",
+      "type": "EXACT_MATCH",
+      "expected_status": "MATCHED_EXACT",
+      "ledger_id": "TXN-LDG-1022",
+      "bank_id": "BNK-1022",
+      "gateway_id": "pay_00001022",
+      "base_amount": 47805.88,
+      "notes": "Exact 3-way match across amount, date, and reference."
+    },
+    {
+      "group_id": "GRP-1023",
+      "type": "EXACT_MATCH",
+      "expected_status": "MATCHED_EXACT",
+      "ledger_id": "TXN-LDG-1023",
+      "bank_id": "BNK-1023",
+      "gateway_id": "pay_00001023",
+      "base_amount": 12673.49,
+      "notes": "Exact 3-way match across amount, date, and reference."
+    },
+    {
+      "group_id": "GRP-1024",
+      "type": "EXACT_MATCH",
+      "expected_status": "MATCHED_EXACT",
+      "ledger_id": "TXN-LDG-1024",
+      "bank_id": "BNK-1024",
+      "gateway_id": "pay_00001024",
+      "base_amount": 74219.49,
+      "notes": "Exact 3-way match across amount, date, and reference."
+    },
+    {
+      "group_id": "GRP-1025",
+      "type": "EXACT_MATCH",
+      "expected_status": "MATCHED_EXACT",
+      "ledger_id": "TXN-LDG-1025",
+      "bank_id": "BNK-1025",
+      "gateway_id": "pay_00001025",
+      "base_amount": 51503.76,
+      "notes": "Exact 3-way match across amount, date, and reference."
+    },
+    {
+      "group_id": "GRP-1026",
+      "type": "EXACT_MATCH",
+      "expected_status": "MATCHED_EXACT",
+      "ledger_id": "TXN-LDG-1026",
+      "bank_id": "BNK-1026",
+      "gateway_id": "pay_00001026",
+      "base_amount": 61724.29,
+      "notes": "Exact 3-way match across amount, date, and reference."
+    },
+    {
+      "group_id": "GRP-1027",
+      "type": "EXACT_MATCH",
+      "expected_status": "MATCHED_EXACT",
+      "ledger_id": "TXN-LDG-1027",
+      "bank_id": "BNK-1027",
+      "gateway_id": "pay_00001027",
+      "base_amount": 20446.7,
+      "notes": "Exact 3-way match across amount, date, and reference."
+    },
+    {
+      "group_id": "GRP-1028",
+      "type": "EXACT_MATCH",
+      "expected_status": "MATCHED_EXACT",
+      "ledger_id": "TXN-LDG-1028",
+      "bank_id": "BNK-1028",
+      "gateway_id": "pay_00001028",
+      "base_amount": 65789.39,
+      "notes": "Exact 3-way match across amount, date, and reference."
+    },
+    {
+      "group_id": "GRP-1029",
+      "type": "EXACT_MATCH",
+      "expected_status": "MATCHED_EXACT",
+      "ledger_id": "TXN-LDG-1029",
+      "bank_id": "BNK-1029",
+      "gateway_id": "pay_00001029",
+      "base_amount": 49330.18,
+      "notes": "Exact 3-way match across amount, date, and reference."
+    },
+    {
+      "group_id": "GRP-1030",
+      "type": "EXACT_MATCH",
+      "expected_status": "MATCHED_EXACT",
+      "ledger_id": "TXN-LDG-1030",
+      "bank_id": "BNK-1030",
+      "gateway_id": "pay_00001030",
+      "base_amount": 34684.46,
+      "notes": "Exact 3-way match across amount, date, and reference."
+    },
+    {
+      "group_id": "GRP-1031",
+      "type": "EXACT_MATCH",
+      "expected_status": "MATCHED_EXACT",
+      "ledger_id": "TXN-LDG-1031",
+      "bank_id": "BNK-1031",
+      "gateway_id": "pay_00001031",
+      "base_amount": 18873.75,
+      "notes": "Exact 3-way match across amount, date, and reference."
+    },
+    {
+      "group_id": "GRP-1032",
+      "type": "EXACT_MATCH",
+      "expected_status": "MATCHED_EXACT",
+      "ledger_id": "TXN-LDG-1032",
+      "bank_id": "BNK-1032",
+      "gateway_id": "pay_00001032",
+      "base_amount": 20074.25,
+      "notes": "Exact 3-way match across amount, date, and reference."
+    },
+    {
+      "group_id": "GRP-1033",
+      "type": "EXACT_MATCH",
+      "expected_status": "MATCHED_EXACT",
+      "ledger_id": "TXN-LDG-1033",
+      "bank_id": "BNK-1033",
+      "gateway_id": "pay_00001033",
+      "base_amount": 67387.8,
+      "notes": "Exact 3-way match across amount, date, and reference."
+    },
+    {
+      "group_id": "GRP-1034",
+      "type": "EXACT_MATCH",
+      "expected_status": "MATCHED_EXACT",
+      "ledger_id": "TXN-LDG-1034",
+      "bank_id": "BNK-1034",
+      "gateway_id": "pay_00001034",
+      "base_amount": 16839.4,
+      "notes": "Exact 3-way match across amount, date, and reference."
+    },
+    {
+      "group_id": "GRP-1035",
+      "type": "EXACT_MATCH",
+      "expected_status": "MATCHED_EXACT",
+      "ledger_id": "TXN-LDG-1035",
+      "bank_id": "BNK-1035",
+      "gateway_id": "pay_00001035",
+      "base_amount": 37266.93,
+      "notes": "Exact 3-way match across amount, date, and reference."
+    },
+    {
+      "group_id": "GRP-1036",
+      "type": "EXACT_MATCH",
+      "expected_status": "MATCHED_EXACT",
+      "ledger_id": "TXN-LDG-1036",
+      "bank_id": "BNK-1036",
+      "gateway_id": "pay_00001036",
+      "base_amount": 11886.68,
+      "notes": "Exact 3-way match across amount, date, and reference."
+    },
+    {
+      "group_id": "GRP-1037",
+      "type": "EXACT_MATCH",
+      "expected_status": "MATCHED_EXACT",
+      "ledger_id": "TXN-LDG-1037",
+      "bank_id": "BNK-1037",
+      "gateway_id": "pay_00001037",
+      "base_amount": 44932.47,
+      "notes": "Exact 3-way match across amount, date, and reference."
+    },
+    {
+      "group_id": "GRP-1038",
+      "type": "TIMING_MISMATCH",
+      "expected_status": "MATCHED_FUZZY",
+      "ledger_id": "TXN-LDG-1038",
+      "bank_id": "BNK-1038",
+      "gateway_id": "pay_00001038",
+      "base_amount": 12211.94,
+      "notes": "T+2 bank settlement lag, T+3 gateway settlement lag."
+    },
+    {
+      "group_id": "GRP-1039",
+      "type": "TIMING_MISMATCH",
+      "expected_status": "MATCHED_FUZZY",
+      "ledger_id": "TXN-LDG-1039",
+      "bank_id": "BNK-1039",
+      "gateway_id": "pay_00001039",
+      "base_amount": 39953.73,
+      "notes": "T+1 bank settlement lag, T+3 gateway settlement lag."
+    },
+    {
+      "group_id": "GRP-1040",
+      "type": "TIMING_MISMATCH",
+      "expected_status": "MATCHED_FUZZY",
+      "ledger_id": "TXN-LDG-1040",
+      "bank_id": "BNK-1040",
+      "gateway_id": "pay_00001040",
+      "base_amount": 20242.72,
+      "notes": "T+1 bank settlement lag, T+2 gateway settlement lag."
+    },
+    {
+      "group_id": "GRP-1041",
+      "type": "TIMING_MISMATCH",
+      "expected_status": "MATCHED_FUZZY",
+      "ledger_id": "TXN-LDG-1041",
+      "bank_id": "BNK-1041",
+      "gateway_id": "pay_00001041",
+      "base_amount": 34573.94,
+      "notes": "T+2 bank settlement lag, T+3 gateway settlement lag."
+    },
+    {
+      "group_id": "GRP-1042",
+      "type": "TIMING_MISMATCH",
+      "expected_status": "MATCHED_FUZZY",
+      "ledger_id": "TXN-LDG-1042",
+      "bank_id": "BNK-1042",
+      "gateway_id": "pay_00001042",
+      "base_amount": 23435.63,
+      "notes": "T+2 bank settlement lag, T+3 gateway settlement lag."
+    },
+    {
+      "group_id": "GRP-1043",
+      "type": "TIMING_MISMATCH",
+      "expected_status": "MATCHED_FUZZY",
+      "ledger_id": "TXN-LDG-1043",
+      "bank_id": "BNK-1043",
+      "gateway_id": "pay_00001043",
+      "base_amount": 24824.8,
+      "notes": "T+2 bank settlement lag, T+1 gateway settlement lag."
+    },
+    {
+      "group_id": "GRP-1044",
+      "type": "AMOUNT_FEE_MISMATCH",
+      "expected_status": "MATCHED_FUZZY",
+      "ledger_id": "TXN-LDG-1044",
+      "bank_id": "BNK-1044",
+      "gateway_id": "pay_00001044",
+      "base_amount": 49920.84,
+      "notes": "Gateway fee of INR 998.42 deducted from Gross INR 49920.84."
+    },
+    {
+      "group_id": "GRP-1045",
+      "type": "AMOUNT_FEE_MISMATCH",
+      "expected_status": "MATCHED_FUZZY",
+      "ledger_id": "TXN-LDG-1045",
+      "bank_id": "BNK-1045",
+      "gateway_id": "pay_00001045",
+      "base_amount": 74682.4,
+      "notes": "Gateway fee of INR 1493.65 deducted from Gross INR 74682.4."
+    },
+    {
+      "group_id": "GRP-1046",
+      "type": "AMOUNT_FEE_MISMATCH",
+      "expected_status": "MATCHED_FUZZY",
+      "ledger_id": "TXN-LDG-1046",
+      "bank_id": "BNK-1046",
+      "gateway_id": "pay_00001046",
+      "base_amount": 23065.37,
+      "notes": "Gateway fee of INR 544.34 deducted from Gross INR 23065.37."
+    },
+    {
+      "group_id": "GRP-1047",
+      "type": "AMOUNT_FEE_MISMATCH",
+      "expected_status": "MATCHED_FUZZY",
+      "ledger_id": "TXN-LDG-1047",
+      "bank_id": "BNK-1047",
+      "gateway_id": "pay_00001047",
+      "base_amount": 59893.07,
+      "notes": "Gateway fee of INR 898.4 deducted from Gross INR 59893.07."
+    },
+    {
+      "group_id": "GRP-1048",
+      "type": "REFERENCE_NARRATION_FUZZ",
+      "expected_status": "MATCHED_FUZZY",
+      "ledger_id": "TXN-LDG-1048",
+      "bank_id": "BNK-1048",
+      "gateway_id": "pay_00001048",
+      "base_amount": 6236.92,
+      "notes": "Bank narration garbled and order_ref prefix omitted."
+    },
+    {
+      "group_id": "GRP-1049",
+      "type": "REFERENCE_NARRATION_FUZZ",
+      "expected_status": "MATCHED_FUZZY",
+      "ledger_id": "TXN-LDG-1049",
+      "bank_id": "BNK-1049",
+      "gateway_id": "pay_00001049",
+      "base_amount": 10746.87,
+      "notes": "Bank narration garbled and order_ref prefix omitted."
+    },
+    {
+      "group_id": "GRP-1050",
+      "type": "REFERENCE_NARRATION_FUZZ",
+      "expected_status": "MATCHED_FUZZY",
+      "ledger_id": "TXN-LDG-1050",
+      "bank_id": "BNK-1050",
+      "gateway_id": "pay_00001050",
+      "base_amount": 26923.75,
+      "notes": "Bank narration garbled and order_ref prefix omitted."
+    },
+    {
+      "group_id": "GRP-1051",
+      "type": "REFERENCE_NARRATION_FUZZ",
+      "expected_status": "MATCHED_FUZZY",
+      "ledger_id": "TXN-LDG-1051",
+      "bank_id": "BNK-1051",
+      "gateway_id": "pay_00001051",
+      "base_amount": 34839.93,
+      "notes": "Bank narration garbled and order_ref prefix omitted."
+    },
+    {
+      "group_id": "GRP-1052",
+      "type": "MISSING_IN_BANK",
+      "expected_status": "EXCEPTION",
+      "ledger_id": "TXN-LDG-1052",
+      "bank_id": null,
+      "gateway_id": "pay_00001052",
+      "base_amount": 13481.21,
+      "notes": "Failed settlement: present in Ledger and Gateway, but missing from Bank Statement."
+    },
+    {
+      "group_id": "GRP-1053",
+      "type": "MISSING_IN_LEDGER",
+      "expected_status": "EXCEPTION",
+      "ledger_id": null,
+      "bank_id": "BNK-1053",
+      "gateway_id": null,
+      "base_amount": 5344.54,
+      "notes": "Unrecorded credit: present in Bank Statement, missing in Ledger & Gateway."
+    },
+    {
+      "group_id": "GRP-1054",
+      "type": "MISSING_IN_BANK",
+      "expected_status": "EXCEPTION",
+      "ledger_id": "TXN-LDG-1054",
+      "bank_id": null,
+      "gateway_id": "pay_00001054",
+      "base_amount": 15632.35,
+      "notes": "Failed settlement: present in Ledger and Gateway, but missing from Bank Statement."
+    },
+    {
+      "group_id": "GRP-1055",
+      "type": "EXACT_MATCH",
+      "expected_status": "MATCHED_EXACT",
+      "ledger_id": "TXN-LDG-1055",
+      "bank_id": "BNK-1055",
+      "gateway_id": "pay_00001055",
+      "base_amount": 8071.91,
+      "notes": "Primary valid match before duplicate voucher."
+    },
+    {
+      "group_id": "GRP-1055-DUP",
+      "type": "DUPLICATE_ENTRY",
+      "expected_status": "EXCEPTION",
+      "ledger_id": "TXN-LDG-1055-DUP",
+      "bank_id": null,
+      "gateway_id": null,
+      "base_amount": 8071.91,
+      "notes": "Duplicate ledger entry created with identical amount and reference."
+    },
+    {
+      "group_id": "GRP-1056",
+      "type": "EXACT_MATCH",
+      "expected_status": "MATCHED_EXACT",
+      "ledger_id": "TXN-LDG-1056",
+      "bank_id": "BNK-1056",
+      "gateway_id": "pay_00001056",
+      "base_amount": 8674.0,
+      "notes": "Primary valid match before duplicate voucher."
+    },
+    {
+      "group_id": "GRP-1056-DUP",
+      "type": "DUPLICATE_ENTRY",
+      "expected_status": "EXCEPTION",
+      "ledger_id": "TXN-LDG-1056-DUP",
+      "bank_id": null,
+      "gateway_id": null,
+      "base_amount": 8674.0,
+      "notes": "Duplicate ledger entry created with identical amount and reference."
+    },
+    {
+      "group_id": "GRP-1057",
+      "type": "UNEXPLAINABLE_ANOMALY",
+      "expected_status": "EXCEPTION",
+      "ledger_id": "TXN-LDG-1057",
+      "bank_id": "BNK-1057",
+      "gateway_id": "pay_00001057",
+      "base_amount": 34251.44,
+      "notes": "Severe amount mismatch (Ledger: INR 34251.44 vs Bank: INR 14385.6) with chargeback hold flag."
+    },
+    {
+      "group_id": "GRP-1058",
+      "type": "UNEXPLAINABLE_ANOMALY",
+      "expected_status": "EXCEPTION",
+      "ledger_id": "TXN-LDG-1058",
+      "bank_id": "BNK-1058",
+      "gateway_id": "pay_00001058",
+      "base_amount": 70138.67,
+      "notes": "Severe amount mismatch (Ledger: INR 70138.67 vs Bank: INR 29458.24) with chargeback hold flag."
+    },
+    {
+      "group_id": "GRP-1059",
+      "type": "UNEXPLAINABLE_ANOMALY",
+      "expected_status": "EXCEPTION",
+      "ledger_id": "TXN-LDG-1059",
+      "bank_id": "BNK-1059",
+      "gateway_id": "pay_00001059",
+      "base_amount": 37938.71,
+      "notes": "Severe amount mismatch (Ledger: INR 37938.71 vs Bank: INR 15934.26) with chargeback hold flag."
+    },
+    {
+      "group_id": "GRP-1060",
+      "type": "UNEXPLAINABLE_ANOMALY",
+      "expected_status": "EXCEPTION",
+      "ledger_id": "TXN-LDG-1060",
+      "bank_id": "BNK-1060",
+      "gateway_id": "pay_00001060",
+      "base_amount": 58360.26,
+      "notes": "Severe amount mismatch (Ledger: INR 58360.26 vs Bank: INR 24511.31) with chargeback hold flag."
+    }
+  ]
+}
