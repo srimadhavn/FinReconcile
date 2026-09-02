@@ -130,7 +130,7 @@ Each of the 19 exceptions is classified into our accounting taxonomy with plain-
 
 - **Backend**: Python 3.11, FastAPI, Uvicorn, Pydantic, Levenshtein, RapidFuzz.
 - **AI Layer**: Google Gemini 3.6 Flash / `gemini-flash-latest` with sliding-window rate limiting, structured schema validation, and high-availability deterministic fallback.
-- **Frontend**: React 18, Vite, Lucide Icons, Recharts, Custom CSS design tokens (Stripe / Mercury dark neutral aesthetic).
+- **Frontend**: React 18, Vite, Lucide Icons, Recharts, Custom CSS design tokens.
 - **Persistence**: Immutable JSON audit snapshots in `data/audit_runs/*.json` + 12-column compliance CSV exporter.
 - **Testing**: Python `unittest` suite (20/20 automated tests passing in <13s).
 
